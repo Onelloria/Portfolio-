@@ -1,0 +1,405 @@
+.component-1,
+.component-1 * {
+  box-sizing: border-box;
+}
+.component-1 {
+  height: 3364px;
+  position: relative;
+}
+.bgloria {
+  background: #000000;
+  position: absolute;
+  right: 0%;
+  left: 0.35%;
+  width: 99.65%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: hidden;
+}
+.portfolio {
+  color: #31c737;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  position: absolute;
+  left: 81px;
+  top: 40px;
+  width: 380px;
+  height: 84px;
+}
+.hey-there {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  right: 42.22%;
+  left: 41.04%;
+  width: 16.74%;
+  top: 325px;
+  height: 53px;
+}
+.ready-to-embrace-challenges-and-grow-in-the-field-of-web-development-with-a-hunger-for-learning {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  right: 11.88%;
+  left: 41.04%;
+  width: 47.08%;
+  top: 468px;
+  height: 146px;
+}
+.rectangle-2 {
+  background: #31c7ac;
+  border-radius: 100px;
+  width: 447px;
+  height: 409px;
+  position: absolute;
+  left: 81px;
+  top: 301px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  filter: blur(15.35px);
+}
+.ellipse-1 {
+  background: #31c737;
+  border-radius: 50%;
+  width: 292px;
+  height: 267px;
+  position: absolute;
+  left: 1230px;
+  top: 878px;
+  filter: blur(66.6px);
+}
+.i-m-leonel-loria {
+  height: 78px;
+  position: absolute;
+  right: 13.89%;
+  left: 41.04%;
+  width: 45.07%;
+  top: 390px;
+}
+.i-m-leonel-loria2 {
+  color: #31c737;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.i-m-leonel-loria3 {
+  width: 587px;
+  height: 82px;
+  position: absolute;
+  left: 583px;
+  top: 378px;
+}
+.onel-1 {
+  width: 921px;
+  height: 961px;
+  position: absolute;
+  left: -156px;
+  top: -251px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.home {
+  width: 82px;
+  height: 24px;
+  position: absolute;
+  left: 504px;
+  top: 51px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.about {
+  width: 96px;
+  height: 24px;
+  position: absolute;
+  left: 701px;
+  top: 54px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.services {
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  left: 888px;
+  top: 51px;
+}
+.services2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.services3 {
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  left: 1148px;
+  top: 48px;
+}
+.contact {
+  width: 128px;
+  height: 24px;
+  position: absolute;
+  left: 1141px;
+  top: 51px;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.frame-1 {
+  background: #201212;
+  width: 1440px;
+  height: 1045px;
+  position: absolute;
+  left: 0px;
+  top: 1090px;
+  overflow: hidden;
+}
+._240-f-531792289-zz-7-lb-h-88-zx-d-ed-ndl-jiu-1-w-h-sbxsmv-n-5-hv-removebg-preview-1 {
+  width: 372px;
+  height: 366px;
+  position: absolute;
+  left: 959px;
+  top: 121px;
+  filter: blur(0px);
+  object-fit: cover;
+}
+.work-experience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  position: absolute;
+  left: 42px;
+  top: 90px;
+  width: 407px;
+  height: 61px;
+}
+.about3 {
+  width: 428px;
+  height: 109px;
+  position: absolute;
+  left: 576px;
+  top: 0px;
+}
+.about4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.rectangle-4 {
+  border-radius: 50px;
+  width: 203px;
+  height: 117px;
+  position: absolute;
+  left: 42px;
+  top: 151px;
+  object-fit: cover;
+}
+._2017-07-29-1 {
+  border-radius: 50px;
+  width: 199px;
+  height: 129px;
+  position: absolute;
+  left: 40px;
+  top: 290px;
+  object-fit: cover;
+}
+._383780392-792076216258571-2761332123623676962-n-1 {
+  border-radius: 50px;
+  width: 203px;
+  height: 129px;
+  position: absolute;
+  left: 40px;
+  top: 441px;
+  object-fit: cover;
+}
+._341284806-248909664167096-7217139212680067901-n-1 {
+  border-radius: 50px;
+  width: 159px;
+  height: 162px;
+  position: absolute;
+  left: 42px;
+  top: 592px;
+  object-fit: cover;
+}
+.monde-nissin-6-months-contractual-utility-worker {
+  color: #31c7ac;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 260px;
+  top: 160px;
+  width: 491px;
+  height: 96px;
+}
+.la-suerte-mega-warehouse-merchandiser-regent-stateline-p-g {
+  color: #31c7ac;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 260px;
+  top: 305px;
+  width: 491px;
+  height: 96px;
+}
+.ying-cha-cafe-pagbilao-bartender {
+  color: #31c7ac;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 260px;
+  top: 471px;
+  width: 491px;
+  height: 96px;
+}
+.asap-delivery-lucena-services-position-ceo-admin {
+  color: #31c7ac;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 260px;
+  top: 625px;
+  width: 491px;
+  height: 96px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #31c737;
+  border-width: 1px 0 0 0;
+  width: 664.01px;
+  height: 0px;
+  position: absolute;
+  left: 819px;
+  top: 90px;
+  transform-origin: 0 0;
+  transform: rotate(89.741deg) scale(1, 1);
+}
+.eager-to-apply-self-taught-skills-and-passion-for-web-development-in-a-professional-setting {
+  color: #37ffdb;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: absolute;
+  left: calc(50% - -191px);
+  top: 514px;
+  width: 467px;
+}
+._245428652-4388815307869012-563257824426429909-n-1-removebg-preview-1 {
+  width: 499px;
+  height: 455px;
+  position: absolute;
+  left: 895px;
+  top: -33px;
+  object-fit: cover;
+}
+.rectangle-5 {
+  background: #15180d;
+  width: 1476px;
+  height: 1041px;
+  position: absolute;
+  left: -18px;
+  top: 2135px;
+}
+.my-services {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 538px;
+  top: 2135px;
+  width: 426px;
+  height: 148px;
+}
+.rectangle-3 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 39.89%;
+  top: 29.67%;
+  height: 30.44%;
+  overflow: visible;
+}
